@@ -1,0 +1,156 @@
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2017-08-21 16:53 India Standard Time
+Nmap scan report for 10.243.146.6
+Host is up (0.00s latency).
+All 1000 scanned ports on 10.243.146.6 are filtered
+MAC Address: EC:08:6B:2B:E1:95 (Tp-link Technologies)
+
+Nmap scan report for 10.243.146.16
+Host is up (0.00s latency).
+All 1000 scanned ports on 10.243.146.16 are filtered
+MAC Address: 34:23:87:2D:C8:FF (Hon Hai Precision Ind.)
+
+Nmap scan report for 10.243.146.17
+Host is up (0.00s latency).
+All 1000 scanned ports on 10.243.146.17 are filtered
+MAC Address: C8:B3:73:49:BA:E2 (Cisco-Linksys)
+
+Nmap scan report for 10.243.146.22
+Host is up (0.0014s latency).
+All 1000 scanned ports on 10.243.146.22 are closed
+MAC Address: C8:3A:35:7F:6B:D8 (Tenda Technology)
+
+Nmap scan report for 10.243.146.25
+Host is up (0.00s latency).
+All 1000 scanned ports on 10.243.146.25 are filtered
+MAC Address: 98:DE:D0:E5:5F:C5 (Tp-link Technologies)
+
+Nmap scan report for 10.243.146.27
+Host is up (0.0022s latency).
+Not shown: 999 closed ports
+PORT      STATE    SERVICE
+27000/tcp filtered flexlm0
+MAC Address: C8:3A:35:43:35:A8 (Tenda Technology)
+
+Nmap scan report for 10.243.146.30
+Host is up (0.00s latency).
+All 1000 scanned ports on 10.243.146.30 are filtered
+MAC Address: 00:17:7C:4A:FD:25 (Smartlink Network Systems Limited)
+
+Nmap scan report for 10.243.146.31
+Host is up (0.00s latency).
+All 1000 scanned ports on 10.243.146.31 are filtered
+MAC Address: 6C:72:20:7D:13:0A (D-Link International)
+
+Nmap scan report for 10.243.146.33
+Host is up (0.00s latency).
+All 1000 scanned ports on 10.243.146.33 are filtered
+MAC Address: 84:1B:5E:3C:6D:DD (Netgear)
+
+Nmap scan report for 10.243.146.34
+Host is up (0.0023s latency).
+Not shown: 989 filtered ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+554/tcp   open  rtsp
+2869/tcp  open  icslap
+5100/tcp  open  admd
+5357/tcp  open  wsdapi
+7100/tcp  open  font-service
+8000/tcp  open  http-alt
+8100/tcp  open  xprint-server
+10243/tcp open  unknown
+MAC Address: B0:83:FE:66:D8:90 (Dell)
+
+Nmap scan report for 10.243.146.35
+Host is up (0.0026s latency).
+Not shown: 996 filtered ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+49155/tcp open  unknown
+MAC Address: 54:EE:75:8A:77:84 (Wistron InfoComm(Kunshan)Co.)
+
+Nmap scan report for 10.243.146.56
+Host is up (0.0040s latency).
+All 1000 scanned ports on 10.243.146.56 are filtered
+MAC Address: C4:E9:84:7B:04:43 (Tp-link Technologies)
+
+Nmap scan report for 10.243.146.66
+Host is up (0.0016s latency).
+Not shown: 993 closed ports
+PORT     STATE SERVICE
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+443/tcp  open  https
+445/tcp  open  microsoft-ds
+902/tcp  open  iss-realsecure
+912/tcp  open  apex-mesh
+5357/tcp open  wsdapi
+MAC Address: 28:F1:0E:05:5C:6D (Dell)
+
+Nmap scan report for 10.243.146.70
+Host is up (0.0040s latency).
+All 1000 scanned ports on 10.243.146.70 are filtered
+MAC Address: 30:3A:64:85:85:A9 (Intel Corporate)
+
+Nmap scan report for 10.243.146.82
+Host is up (0.0040s latency).
+All 1000 scanned ports on 10.243.146.82 are filtered
+MAC Address: 10:62:EB:11:8A:DA (D-Link International)
+
+Nmap scan report for 10.243.146.98
+Host is up (0.0033s latency).
+Not shown: 999 filtered ports
+PORT     STATE SERVICE
+2869/tcp open  icslap
+MAC Address: 1C:39:47:18:15:41 (Compal Information (kunshan))
+
+Nmap scan report for 10.243.146.125
+Host is up (0.00s latency).
+All 1000 scanned ports on 10.243.146.125 are filtered
+MAC Address: 40:16:7E:42:6D:0A (Asustek Computer)
+
+Nmap scan report for 10.243.146.127
+Host is up (0.0030s latency).
+All 1000 scanned ports on 10.243.146.127 are filtered
+MAC Address: E8:03:9A:03:CC:2D (Samsung Electronics)
+
+Nmap scan report for 10.243.146.144
+Host is up (0.0014s latency).
+All 1000 scanned ports on 10.243.146.144 are closed
+MAC Address: C8:3A:35:30:F5:88 (Tenda Technology)
+
+Nmap scan report for 10.243.146.148
+Host is up (0.0040s latency).
+All 1000 scanned ports on 10.243.146.148 are filtered
+MAC Address: 18:A6:F7:2A:AE:53 (Tp-link Technologies)
+
+Nmap scan report for 10.243.146.174
+Host is up (0.0040s latency).
+All 1000 scanned ports on 10.243.146.174 are filtered
+MAC Address: B8:2A:72:A0:67:43 (Dell)
+
+Nmap scan report for 10.243.146.189
+Host is up (0.0017s latency).
+All 1000 scanned ports on 10.243.146.189 are closed
+MAC Address: C8:5B:76:DB:04:8B (Lcfc(hefei) Electronics Technology)
+
+Nmap scan report for 10.243.146.244
+Host is up (0.00s latency).
+All 1000 scanned ports on 10.243.146.244 are filtered
+MAC Address: 18:A6:F7:40:96:8D (Tp-link Technologies)
+
+Nmap scan report for 10.243.146.224
+Host is up (0.000062s latency).
+Not shown: 996 closed ports
+PORT     STATE SERVICE
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+5357/tcp open  wsdapi
+
+Nmap done: 256 IP addresses (24 hosts up) scanned in 33.63 seconds

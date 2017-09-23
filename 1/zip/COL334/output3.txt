@@ -1,0 +1,95 @@
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2017-08-21 20:02 India Standard Time
+Nmap scan report for 10.243.146.6
+Host is up (0.0020s latency).
+MAC Address: EC:08:6B:2B:E1:95 (Tp-link Technologies)
+Nmap scan report for 10.243.146.12
+Host is up (0.00s latency).
+MAC Address: 34:17:EB:60:22:85 (Dell)
+Nmap scan report for 10.243.146.17
+Host is up (0.0010s latency).
+MAC Address: C8:B3:73:49:BA:E2 (Cisco-Linksys)
+Nmap scan report for 10.243.146.22
+Host is up (0.0010s latency).
+MAC Address: C8:3A:35:7F:6B:D8 (Tenda Technology)
+Nmap scan report for 10.243.146.25
+Host is up (0.0010s latency).
+MAC Address: 98:DE:D0:E5:5F:C5 (Tp-link Technologies)
+Nmap scan report for 10.243.146.27
+Host is up (0.0010s latency).
+MAC Address: C8:3A:35:43:35:A8 (Tenda Technology)
+Nmap scan report for 10.243.146.30
+Host is up (0.0010s latency).
+MAC Address: 00:17:7C:4A:FD:25 (Smartlink Network Systems Limited)
+Nmap scan report for 10.243.146.31
+Host is up (0.00s latency).
+MAC Address: 6C:72:20:7D:13:0A (D-Link International)
+Nmap scan report for 10.243.146.33
+Host is up (0.00s latency).
+MAC Address: 84:1B:5E:3C:6D:DD (Netgear)
+Nmap scan report for 10.243.146.39
+Host is up (0.0040s latency).
+MAC Address: B0:83:FE:66:14:AB (Dell)
+Nmap scan report for 10.243.146.53
+Host is up (0.0010s latency).
+MAC Address: 98:40:BB:37:D4:9E (Dell)
+Nmap scan report for 10.243.146.56
+Host is up (0.0030s latency).
+MAC Address: C4:E9:84:7B:04:43 (Tp-link Technologies)
+Nmap scan report for 10.243.146.70
+Host is up (0.0010s latency).
+MAC Address: 30:3A:64:85:85:A9 (Intel Corporate)
+Nmap scan report for 10.243.146.72
+Host is up (0.00s latency).
+MAC Address: 54:53:ED:25:54:A0 (Sony)
+Nmap scan report for 10.243.146.82
+Host is up (0.0020s latency).
+MAC Address: 10:62:EB:11:8A:DA (D-Link International)
+Nmap scan report for 10.243.146.112
+Host is up (0.00s latency).
+MAC Address: 68:F7:28:ED:6C:F6 (Lcfc(hefei) Electronics Technology)
+Nmap scan report for 10.243.146.125
+Host is up (0.0060s latency).
+MAC Address: 40:16:7E:42:6D:0A (Asustek Computer)
+Nmap scan report for 10.243.146.142
+Host is up (0.0040s latency).
+MAC Address: A0:8C:FD:26:7E:EC (Hewlett Packard)
+Nmap scan report for 10.243.146.144
+Host is up (0.0020s latency).
+MAC Address: C8:3A:35:30:F5:88 (Tenda Technology)
+Nmap scan report for 10.243.146.148
+Host is up (0.0010s latency).
+MAC Address: 18:A6:F7:2A:AE:53 (Tp-link Technologies)
+Nmap scan report for 10.243.146.149
+Host is up (0.048s latency).
+MAC Address: 40:B0:34:C0:4B:C7 (Hewlett Packard)
+Nmap scan report for 10.243.146.165
+Host is up (0.031s latency).
+MAC Address: 70:5A:0F:BF:74:6B (Hewlett Packard)
+Nmap scan report for 10.243.146.174
+Host is up (0.015s latency).
+MAC Address: B8:2A:72:A0:67:43 (Dell)
+Nmap scan report for 10.243.146.189
+Host is up (0.023s latency).
+MAC Address: C8:5B:76:DB:04:8B (Lcfc(hefei) Electronics Technology)
+Nmap scan report for 10.243.146.195
+Host is up (0.013s latency).
+MAC Address: 20:47:47:C3:E6:1E (Dell)
+Nmap scan report for 10.243.146.217
+Host is up (0.00s latency).
+MAC Address: F8:CA:B8:0D:F1:F3 (Dell)
+Nmap scan report for 10.243.146.236
+Host is up (0.0030s latency).
+MAC Address: F8:A9:63:9A:D8:C0 (Compal Information (kunshan))
+Nmap scan report for 10.243.146.241
+Host is up (0.0010s latency).
+MAC Address: A4:BA:DB:D1:65:47 (Dell)
+Nmap scan report for 10.243.146.244
+Host is up (0.0040s latency).
+MAC Address: 18:A6:F7:40:96:8D (Tp-link Technologies)
+Nmap scan report for 10.243.146.253
+Host is up (0.0020s latency).
+MAC Address: 24:B6:FD:35:51:FA (Dell)
+Nmap scan report for 10.243.146.224
+Host is up.
+Nmap done: 256 IP addresses (31 hosts up) scanned in 6.89 seconds

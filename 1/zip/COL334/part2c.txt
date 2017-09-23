@@ -1,0 +1,29 @@
+probe from:			Hostel(WiFi)
+time: 				10:43:00
+DNS Suffix:			iitd.ac.in
+Default Getaway:		10.192.32.1
+
+probe from:			Student Activity Centre
+time: 				11:27:00
+DNS Suffix:			iitd.ac.in
+Default Getaway:		10.194.32.1
+IPv4:				10.194.137.28
+
+probe from:			CSC
+time: 				11:53:00
+DNS Suffix:			iitd.ac.in
+Default Getaway:		10.194.32.1
+IPv4:				10.194.37.28
+
+probe from:			LHC
+time: 				12:37:00
+DNS Suffix:			iitd.ac.in
+Default Getaway:		10.194.32.1
+IPv4:				10.194.37.28
+
+
+probe from:			Hostel(LAN)
+time: 				12:37:00
+DNS Suffix:			iitd.ac.in
+Default Getaway:		10.194.2.1
+IPv4:				10.194.2.6
